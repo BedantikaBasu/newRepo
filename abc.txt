@@ -1,3 +1,6 @@
 This is a new file
 1st change from remote
+
 2nd change from remote
+
+1st change from local
